@@ -1,3 +1,3 @@
-# CSC4111-GitAssignment
+# Github and git
 
 Ervin Colston, gh5089
